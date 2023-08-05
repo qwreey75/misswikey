@@ -37,6 +37,10 @@ MFM은 Misskey의 다양한 곳에서 사용할 수 있는 전용 마크업 언�
 
 [Misskey로 연합우주의 세계가 펼쳐집니다](https://example.com)
 
+퀘스쳔마크(?)를 앞에 붙여 페이지 미리보기(OpenGraph)를 보이지 않게 할 수 있습니다.
+
+?[Misskey로 연합우주의 세계가 펼쳐집니다](https://example.com)
+
 ## 2.6 문서 링크
 
 문장의 특정 범위를 특정 문서에 대한 URL로 표시합니다.
